@@ -1,0 +1,20 @@
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\bin\Debug\Профессионалы X.exe.config
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\bin\Debug\Профессионалы X.exe
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\bin\Debug\Профессионалы X.pdb
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы X.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы_X.Form1.resources
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы_X.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы X.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы X.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы X.exe
+C:\Users\Administrator\source\repos\Профессионалы X\Профессионалы X\obj\Debug\Профессионалы X.pdb
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\bin\Debug\Профессионалы X.exe.config
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\bin\Debug\Профессионалы X.exe
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\bin\Debug\Профессионалы X.pdb
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы X.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы_X.Form1.resources
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы_X.Properties.Resources.resources
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы X.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы X.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы X.exe
+C:\Users\Administrator\Desktop\zhirkov\Секция А\Профессионалы X\obj\Debug\Профессионалы X.pdb
